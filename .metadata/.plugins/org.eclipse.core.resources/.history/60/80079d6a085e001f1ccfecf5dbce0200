@@ -1,0 +1,15 @@
+
+public class test {
+	public static void main(String[] args) {
+		String s1="XYZ";
+		String s2="ABC";
+		String s3="PQR";
+	String c1=	s1.concat(s2).concat(s3);
+	
+		System.out.println(c1);
+		
+		}
+
+	}
+
+
